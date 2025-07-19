@@ -1,5 +1,5 @@
 #include "math/add.h"
-#include "util.h"
+#include "utils.h"
 #include "plugin.h"
 
 int plugin_mul_add(int a, int b, int c) {
